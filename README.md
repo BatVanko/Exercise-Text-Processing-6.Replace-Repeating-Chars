@@ -1,0 +1,1 @@
+# Exercise-Text-Processing-6.Replace-Repeating-Chars
